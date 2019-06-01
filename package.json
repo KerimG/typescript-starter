@@ -10,5 +10,8 @@
     "starter"
   ],
   "author": "Kerim Güney <kerim@gueney.io> (https://gueney.io)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
 }
