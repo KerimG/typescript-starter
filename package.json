@@ -12,6 +12,9 @@
   "author": "Kerim Güney <kerim@gueney.io> (https://gueney.io)",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
     "tslint": "^5.17.0",
     "typescript": "^3.5.1"
   }
