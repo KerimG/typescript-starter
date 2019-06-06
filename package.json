@@ -4,7 +4,10 @@
   "description": "A TypeScript starter project with many common NPM dev packages, but no runtime dependencies.",
   "scripts": {
     "test": "jest --watchAll --colors",
-    "test:coverage": "jest --watchAll --colors --coverage"
+    "test:coverage": "jest --watchAll --colors --coverage",
+    "build": "tsc",
+    "build:watch": "tsc -w",
+    "build:docs": "tsc && typedoc src --out build/docs"
   },
   "keywords": [
     "typescript",
