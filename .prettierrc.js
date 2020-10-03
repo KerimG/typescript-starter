@@ -1,8 +1,8 @@
 module.exports = {
-  trailingComma: "es5",
+  trailingComma: 'es5',
   tabWidth: 2,
   semi: true,
-  singleQuote: false,
-  htmlWhitespaceSensitivity: "strict",
-  endOfLine: "lf",
+  singleQuote: true,
+  htmlWhitespaceSensitivity: 'strict',
+  endOfLine: 'lf',
 };
