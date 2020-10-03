@@ -1,6 +1,6 @@
 # Created by https://www.gitignore.io/api/git,node,linux,macos,windows,typings,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=git,node,linux,macos,windows,typings,visualstudiocode
-
+tsconfig.tsbuildinfo
 build
 
 ### Git ###
